@@ -1,2 +1,2 @@
-# smart-contract
+# Python learn with me 💯
 im a student !
